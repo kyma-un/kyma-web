@@ -9,7 +9,7 @@ gem "github-pages", "~> 232", group: :jekyll_plugins
 gem "sass-embedded"
 gem "faraday-retry"
 
-gem "jekyll-sass-converter", "~> 3.0"
+gem "jekyll-sass-converter", "~> 1.52"
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-yat"

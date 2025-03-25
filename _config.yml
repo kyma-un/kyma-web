@@ -24,8 +24,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Kyma
-email: your-email@domain.com
+title: Kyma UN
+email: kyma_fibog@unal.edu.co
 author: Kyma Team
 
 # Copyright setting

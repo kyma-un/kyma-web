@@ -6,6 +6,7 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 3.10"
 gem "github-pages", "~> 232", group: :jekyll_plugins
+gem "sass-embedded"
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-yat"

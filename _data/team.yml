@@ -1,0 +1,57 @@
+- name: Andrés Morales Martínez
+  carreer: Ingeniería mecatrónica y Física
+  email: amoralesma@unal.edu.co
+  group: Líderes
+
+  image: "/assets/images/members/andres_morales.jpg"
+
+
+- name: Jonathan Andrés Jiménez Trujillo
+  email: jojimenezt@unal.edu.co
+  carreer: Ingeniería mecatrónica 
+  group: Investigadores
+
+- name: Abril Monsalve Contreras
+  email: abmonsalvec@unal.edu.co
+  carreer: Ingeniería mecatrónica 
+  group: Investigadores
+
+- name: Cesar Augusto Jaramillo Fino
+  email: cjaramillof@unal.edu.co
+  carreer: Ingeniería electrónica
+  group: Investigadores
+
+- name: Cristian Adrian Prieto Peñaloza
+  email: cprietop@unal.edu.co
+  carreer: Ingeniería electrónica
+  group: Investigadores
+
+- name: Juan Diego Sáenz
+  email: jsaenza@unal.edu.co
+  carreer: Ingeniería mecatrónica y Física
+  group: Investigadores
+
+- name: Juliana Góngora Rasmussen
+  email: jugongorar@unal.edu.co
+  carreer: Ingeniería mecatrónica 
+  group: Investigadores
+
+- name: Omar David Acosta Zambrano
+  email: odacostaz@unal.edu.co
+  carreer: Ingeniería mecatrónica 
+  group: Investigadores
+
+- name: Gerhaldine Suárez
+  email: ""
+  group: Investigadores
+  carreer: Ingeniería mecatrónica 
+
+- name: Johan Sebastián Santamaría Ahumada
+  email: josantamariaa@unal.edu.co
+  group: Investigadores
+  carreer: Ingeniería electrónica
+  image: "/assets/images/members/johan_santamaria.jpeg"
+
+- name: Luis Miguel Méndez Moreno 
+  email: lmendezm@unal.edu.co
+  group: Profesores

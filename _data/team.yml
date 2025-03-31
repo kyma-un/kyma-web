@@ -52,6 +52,12 @@
   carreer: Ingeniería electrónica
   image: "/assets/images/members/johan_santamaria.jpeg"
 
+- name: Juan David Chica García
+  email: jchicag@unal.edu.co
+  group: Investigadores
+  carrer: Ingeniería electrónica 
+  image: "/assets/images/members/juan_chica.jpeg"
+
 - name: Luis Miguel Méndez Moreno 
   email: lmendezm@unal.edu.co
   group: Profesores
